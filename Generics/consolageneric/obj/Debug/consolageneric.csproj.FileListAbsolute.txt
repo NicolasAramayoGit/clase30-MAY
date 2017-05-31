@@ -1,0 +1,11 @@
+E:\Generics\consolageneric\bin\Debug\consolageneric.exe.config
+E:\Generics\consolageneric\bin\Debug\consolageneric.exe
+E:\Generics\consolageneric\bin\Debug\consolageneric.pdb
+E:\Generics\consolageneric\bin\Debug\Generics.dll
+E:\Generics\consolageneric\bin\Debug\Generics.pdb
+E:\Generics\consolageneric\obj\Debug\consolageneric.csprojResolveAssemblyReference.cache
+E:\Generics\consolageneric\obj\Debug\consolageneric.exe
+E:\Generics\consolageneric\obj\Debug\consolageneric.pdb
+C:\Users\alumno\Desktop\Generics\consolageneric\bin\Debug\consolageneric.exe.config
+C:\Users\alumno\Desktop\Generics\consolageneric\obj\Debug\consolageneric.exe
+C:\Users\alumno\Desktop\Generics\consolageneric\obj\Debug\consolageneric.pdb
