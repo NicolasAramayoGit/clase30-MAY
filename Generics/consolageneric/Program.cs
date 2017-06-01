@@ -15,16 +15,32 @@ namespace consolageneric
 
             Muebles unmueble = new Muebles(4, "pino", 50);
             Container<Muebles> uncontainer = new Container<Muebles>(4);
+            Container<TV> mcount = new Container<TV>(4);
 
             bool dato = uncontainer + unmueble;
 
             TV untv =new TV("asasas",21,21);
-            Container<TV> mcount = new Container<TV>(4);
+
+            dato = mcount + untv;
+
+            if (dato)
+            {
+                Console.WriteLine("Se agrego una TV al container...");
+            }
+            else
+            {
+                Console.WriteLine("No se pudo agrego una TV al container...");
+            }
 
             foreach (TV item in mcount)
 	        {
-                item.ToString();
+                Console.Write( item.ToString() );
 	        }
+
+            Console.Write("Pulse una tecla...");
+            Console.ReadKey();
+
+
         }
     }
 }

@@ -56,7 +56,13 @@ namespace Generics
         //    return base.Equals(elemento);
         //}
 
-        public IEnumerator<T> getenumerator()
+
+        System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
+        {            
+            return GetEnumerator();
+        }
+
+        public IEnumerator<T> GetEnumerator()
         {
             //Ambas formas son válidas.
 
@@ -67,13 +73,6 @@ namespace Generics
 
             //return this._elementos.GetEnumerator();
         }
-
-        System.Collections.IEnumerator System.Collections.IEnumerable.GetEnumerator()
-        {            
-            return getenumerator();
-        }
-
-
 
 
     }

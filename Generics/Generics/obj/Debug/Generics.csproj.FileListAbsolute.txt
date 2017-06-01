@@ -8,3 +8,8 @@ E:\Generics\Generics\obj\Debug\Generics.dll
 E:\Generics\Generics\obj\Debug\Generics.pdb
 E:\Generics\Generics\bin\Debug\Generics.dll
 E:\Generics\Generics\bin\Debug\Generics.pdb
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\Generics\bin\Debug\Generics.dll
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\Generics\bin\Debug\Generics.pdb
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\Generics\obj\Debug\Generics.dll
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\Generics\obj\Debug\Generics.pdb

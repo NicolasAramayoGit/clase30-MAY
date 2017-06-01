@@ -9,3 +9,11 @@ E:\Generics\consolageneric\obj\Debug\consolageneric.pdb
 C:\Users\alumno\Desktop\Generics\consolageneric\bin\Debug\consolageneric.exe.config
 C:\Users\alumno\Desktop\Generics\consolageneric\obj\Debug\consolageneric.exe
 C:\Users\alumno\Desktop\Generics\consolageneric\obj\Debug\consolageneric.pdb
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\bin\Debug\consolageneric.exe.config
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\bin\Debug\consolageneric.exe
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\bin\Debug\consolageneric.pdb
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\bin\Debug\Generics.dll
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\bin\Debug\Generics.pdb
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\obj\Debug\consolageneric.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\obj\Debug\consolageneric.exe
+D:\ARAMAYO_NICOLAS\Git\clase30-MAY\Generics\consolageneric\obj\Debug\consolageneric.pdb
